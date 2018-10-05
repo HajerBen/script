@@ -1,0 +1,10 @@
+set terminal jpeg size 1024,768;
+set output 'results/CBR_Index.jpg';
+set style  data linespoints
+set grid
+set style fill solid 1.0 noborder
+set key inside right
+set xlabel "Users"
+set ylabel "Fairness"
+set title "CBR-Fairness-Index"
+plot  'results/FME_Y1_Index_CBR.dat' using 2:xtic(1) title 'FME', 'results/RR_Y1_Index_CBR.dat' using 2:xtic(1) title 'RR'

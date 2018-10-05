@@ -1,0 +1,10 @@
+set terminal jpeg size 1024,768;
+set output 'results/VIDEO_power.jpg';
+set style  data linespoints
+set grid
+set style fill solid 1.0 noborder
+set key inside right
+set xlabel "Users"
+set ylabel "power[dBm]"
+set title "VIDEO-Power"
+plot  'results/MT_Y1_power_VIDEO.dat' using 2:xtic(1) title 'MT', 'results/FME_Y1_power_VIDEO.dat' using 2:xtic(1) title 'FME', 'results/RR_Y1_power_VIDEO.dat' using 2:xtic(1) title 'RR'

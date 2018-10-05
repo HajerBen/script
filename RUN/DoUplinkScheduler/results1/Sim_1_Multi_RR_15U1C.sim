@@ -1,0 +1,3516 @@
+Scheduler RR 
+Creating UE 100 at (377.000000,351.000000)
+CREATED CBR APPLICATION, ID 0 S 100 D 1
+Creating UE 101 at (765.000000,963.000000)
+CREATED CBR APPLICATION, ID 1 S 101 D 1
+Creating UE 102 at (437.000000,826.000000)
+CREATED CBR APPLICATION, ID 2 S 102 D 1
+Creating UE 103 at (474.000000,490.000000)
+CREATED CBR APPLICATION, ID 3 S 103 D 1
+Creating UE 104 at (318.000000,37.000000)
+CREATED CBR APPLICATION, ID 4 S 104 D 1
+Creating UE 105 at (166.000000,464.000000)
+CREATED CBR APPLICATION, ID 5 S 105 D 1
+Creating UE 106 at (808.000000,534.000000)
+CREATED CBR APPLICATION, ID 6 S 106 D 1
+Creating UE 107 at (136.000000,329.000000)
+CREATED CBR APPLICATION, ID 7 S 107 D 1
+Creating UE 108 at (505.000000,32.000000)
+CREATED CBR APPLICATION, ID 8 S 108 D 1
+Creating UE 109 at (496.000000,552.000000)
+CREATED CBR APPLICATION, ID 9 S 109 D 1
+Creating UE 110 at (939.000000,608.000000)
+CREATED CBR APPLICATION, ID 10 S 110 D 1
+Creating UE 111 at (352.000000,455.000000)
+CREATED CBR APPLICATION, ID 11 S 111 D 1
+Creating UE 112 at (97.000000,99.000000)
+CREATED CBR APPLICATION, ID 12 S 112 D 1
+Creating UE 113 at (511.000000,961.000000)
+CREATED CBR APPLICATION, ID 13 S 113 D 1
+Creating UE 114 at (142.000000,903.000000)
+CREATED CBR APPLICATION, ID 14 S 114 D 1
+TX CBR ID 0 B 0 SIZE 505 SRC 100 DST 1 T 0
+TX CBR ID 1 B 1 SIZE 505 SRC 101 DST 1 T 0
+TX CBR ID 2 B 2 SIZE 505 SRC 102 DST 1 T 0
+TX CBR ID 3 B 3 SIZE 505 SRC 103 DST 1 T 0
+TX CBR ID 4 B 4 SIZE 505 SRC 104 DST 1 T 0
+TX CBR ID 5 B 5 SIZE 505 SRC 105 DST 1 T 0
+TX CBR ID 6 B 6 SIZE 505 SRC 106 DST 1 T 0
+TX CBR ID 7 B 7 SIZE 505 SRC 107 DST 1 T 0
+TX CBR ID 8 B 8 SIZE 505 SRC 108 DST 1 T 0
+TX CBR ID 9 B 9 SIZE 505 SRC 109 DST 1 T 0
+TX CBR ID 10 B 10 SIZE 505 SRC 110 DST 1 T 0
+TX CBR ID 11 B 11 SIZE 505 SRC 111 DST 1 T 0
+TX CBR ID 12 B 12 SIZE 505 SRC 112 DST 1 T 0
+TX CBR ID 13 B 13 SIZE 505 SRC 113 DST 1 T 0
+TX CBR ID 14 B 14 SIZE 505 SRC 114 DST 1 T 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 100
+PATHLOSS ( 100) = 117.267
+power[100]= 20.35
+RR NRbs of 100 = 5
+user to schedule 101
+PATHLOSS ( 101) = 128.1
+power[101]= 23
+RR NRbs of 101 = 5
+user to schedule 102
+PATHLOSS ( 102) = 126.993
+power[102]= 23
+RR NRbs of 102 = 5
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 103
+PATHLOSS ( 103) = 121.844
+power[103]= 23
+RR NRbs of 103 = 5
+user to schedule 104
+PATHLOSS ( 104) = 109.501
+power[104]= 15.6901
+RR NRbs of 104 = 5
+user to schedule 105
+PATHLOSS ( 105) = 116.544
+power[105]= 19.9162
+RR NRbs of 105 = 5
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 106
+PATHLOSS ( 106) = 127.577
+power[106]= 23
+RR NRbs of 106 = 5
+user to schedule 107
+PATHLOSS ( 107) = 111.235
+power[107]= 16.7307
+RR NRbs of 107 = 5
+user to schedule 108
+PATHLOSS ( 108) = 116.977
+power[108]= 20.1757
+RR NRbs of 108 = 5
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 109
+PATHLOSS ( 109) = 123.229
+power[109]= 23
+RR NRbs of 109 = 5
+user to schedule 110
+PATHLOSS ( 110) = 128.1
+power[110]= 23
+RR NRbs of 110 = 5
+user to schedule 111
+PATHLOSS ( 111) = 119.07
+power[111]= 21.4319
+RR NRbs of 111 = 5
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 112
+PATHLOSS ( 112) = 95.8267
+power[112]= 7.48571
+RR NRbs of 112 = 5
+user to schedule 113
+PATHLOSS ( 113) = 128.1
+power[113]= 23
+RR NRbs of 113 = 5
+user to schedule 114
+PATHLOSS ( 114) = 126.633
+power[114]= 23
+RR NRbs of 114 = 5
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 100
+PATHLOSS ( 100) = 117.267
+power[100]= 40.6997
+RR NRbs of 100 = 10
+user to schedule 101
+PATHLOSS ( 101) = 128.099
+power[101]= 46
+RR NRbs of 101 = 10
+user to schedule 102
+PATHLOSS ( 102) = 126.994
+power[102]= 46
+RR NRbs of 102 = 10
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 103
+PATHLOSS ( 103) = 121.845
+power[103]= 46
+RR NRbs of 103 = 10
+user to schedule 104
+PATHLOSS ( 104) = 109.499
+power[104]= 31.3789
+RR NRbs of 104 = 10
+user to schedule 105
+PATHLOSS ( 105) = 116.543
+power[105]= 39.8318
+RR NRbs of 105 = 10
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 106
+PATHLOSS ( 106) = 127.577
+power[106]= 46
+RR NRbs of 106 = 10
+user to schedule 107
+PATHLOSS ( 107) = 111.236
+power[107]= 33.4622
+RR NRbs of 107 = 10
+user to schedule 108
+PATHLOSS ( 108) = 116.977
+power[108]= 40.3517
+RR NRbs of 108 = 10
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 109
+PATHLOSS ( 109) = 123.228
+power[109]= 46
+RR NRbs of 109 = 10
+user to schedule 110
+PATHLOSS ( 110) = 128.1
+power[110]= 46
+RR NRbs of 110 = 10
+user to schedule 111
+PATHLOSS ( 111) = 119.069
+power[111]= 42.8633
+RR NRbs of 111 = 10
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 112
+PATHLOSS ( 112) = 95.8222
+power[112]= 14.9687
+RR NRbs of 112 = 10
+user to schedule 113
+PATHLOSS ( 113) = 128.1
+power[113]= 46
+RR NRbs of 113 = 10
+user to schedule 114
+PATHLOSS ( 114) = 126.633
+power[114]= 46
+RR NRbs of 114 = 10
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 100
+PATHLOSS ( 100) = 117.266
+power[100]= 61.0491
+RR NRbs of 100 = 15
+user to schedule 101
+PATHLOSS ( 101) = 128.099
+power[101]= 69
+RR NRbs of 101 = 15
+user to schedule 102
+PATHLOSS ( 102) = 126.994
+power[102]= 69
+RR NRbs of 102 = 15
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 103
+PATHLOSS ( 103) = 121.846
+power[103]= 69
+RR NRbs of 103 = 15
+user to schedule 104
+PATHLOSS ( 104) = 109.497
+power[104]= 47.0666
+RR NRbs of 104 = 15
+user to schedule 105
+PATHLOSS ( 105) = 116.542
+power[105]= 59.7467
+RR NRbs of 105 = 15
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 106
+PATHLOSS ( 106) = 127.577
+power[106]= 69
+RR NRbs of 106 = 15
+user to schedule 107
+PATHLOSS ( 107) = 111.237
+power[107]= 50.1943
+RR NRbs of 107 = 15
+user to schedule 108
+PATHLOSS ( 108) = 116.978
+power[108]= 60.5281
+RR NRbs of 108 = 15
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 109
+PATHLOSS ( 109) = 123.227
+power[109]= 69
+RR NRbs of 109 = 15
+user to schedule 110
+PATHLOSS ( 110) = 128.1
+power[110]= 69
+RR NRbs of 110 = 15
+user to schedule 111
+PATHLOSS ( 111) = 119.068
+power[111]= 64.294
+RR NRbs of 111 = 15
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 112
+PATHLOSS ( 112) = 95.8176
+power[112]= 22.449
+RR NRbs of 112 = 15
+user to schedule 113
+PATHLOSS ( 113) = 128.099
+power[113]= 69
+RR NRbs of 113 = 15
+user to schedule 114
+PATHLOSS ( 114) = 126.632
+power[114]= 69
+RR NRbs of 114 = 15
+RX CBR ID 12 B 12 SIZE 500 SRC 112 DST 1 D 0.016 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 100
+PATHLOSS ( 100) = 117.266
+power[100]= 81.3981
+RR NRbs of 100 = 20
+user to schedule 101
+PATHLOSS ( 101) = 128.098
+power[101]= 92
+RR NRbs of 101 = 20
+user to schedule 102
+PATHLOSS ( 102) = 126.994
+power[102]= 92
+RR NRbs of 102 = 20
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 103
+PATHLOSS ( 103) = 121.847
+power[103]= 92
+RR NRbs of 103 = 20
+user to schedule 104
+PATHLOSS ( 104) = 109.494
+power[104]= 62.753
+RR NRbs of 104 = 20
+user to schedule 105
+PATHLOSS ( 105) = 116.541
+power[105]= 79.661
+RR NRbs of 105 = 20
+RX CBR ID 4 B 4 SIZE 500 SRC 104 DST 1 D 0.018 0
+RX CBR ID 5 B 5 SIZE 500 SRC 105 DST 1 D 0.018 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 106
+PATHLOSS ( 106) = 127.576
+power[106]= 92
+RR NRbs of 106 = 20
+user to schedule 107
+PATHLOSS ( 107) = 111.239
+power[107]= 66.9271
+RR NRbs of 107 = 20
+user to schedule 108
+PATHLOSS ( 108) = 116.978
+power[108]= 80.7047
+RR NRbs of 108 = 20
+RX CBR ID 7 B 7 SIZE 500 SRC 107 DST 1 D 0.019 0
+RX CBR ID 8 B 8 SIZE 500 SRC 108 DST 1 D 0.019 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 109
+PATHLOSS ( 109) = 123.226
+power[109]= 92
+RR NRbs of 109 = 20
+user to schedule 110
+PATHLOSS ( 110) = 128.1
+power[110]= 92
+RR NRbs of 110 = 20
+user to schedule 111
+PATHLOSS ( 111) = 119.067
+power[111]= 85.7241
+RR NRbs of 111 = 20
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 15
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 112
+PATHLOSS ( 112) = 95.8131
+power[112]= 29.9265
+RR NRbs of 112 = 20
+user to schedule 113
+PATHLOSS ( 113) = 128.099
+power[113]= 92
+RR NRbs of 113 = 20
+user to schedule 114
+PATHLOSS ( 114) = 126.632
+power[114]= 92
+RR NRbs of 114 = 20
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 14
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 100
+PATHLOSS ( 100) = 117.265
+power[100]= 101.747
+RR NRbs of 100 = 25
+user to schedule 101
+PATHLOSS ( 101) = 128.097
+power[101]= 115
+RR NRbs of 101 = 25
+user to schedule 102
+PATHLOSS ( 102) = 126.995
+power[102]= 115
+RR NRbs of 102 = 25
+RX CBR ID 0 B 0 SIZE 500 SRC 100 DST 1 D 0.022 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 14
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 103
+PATHLOSS ( 103) = 121.848
+power[103]= 115
+RR NRbs of 103 = 25
+user to schedule 104
+PATHLOSS ( 104) = 109.492
+power[104]= 78.4381
+RR NRbs of 104 = 25
+user to schedule 105
+PATHLOSS ( 105) = 116.54
+power[105]= 99.5745
+RR NRbs of 105 = 25
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 12
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 108
+PATHLOSS ( 108) = 116.979
+power[108]= 100.882
+RR NRbs of 108 = 25
+user to schedule 109
+PATHLOSS ( 109) = 123.225
+power[109]= 115
+RR NRbs of 109 = 25
+user to schedule 110
+PATHLOSS ( 110) = 128.1
+power[110]= 115
+RR NRbs of 110 = 25
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 11
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 113
+PATHLOSS ( 113) = 128.099
+power[113]= 115
+RR NRbs of 113 = 25
+user to schedule 114
+PATHLOSS ( 114) = 126.632
+power[114]= 115
+RR NRbs of 114 = 25
+user to schedule 100
+PATHLOSS ( 100) = 117.265
+power[100]= 122.095
+RR NRbs of 100 = 30
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 10
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 102
+PATHLOSS ( 102) = 126.995
+power[102]= 138
+RR NRbs of 102 = 30
+user to schedule 103
+PATHLOSS ( 103) = 121.849
+power[103]= 138
+RR NRbs of 103 = 30
+user to schedule 106
+PATHLOSS ( 106) = 127.576
+power[106]= 115
+RR NRbs of 106 = 25
+RX CBR ID 3 B 3 SIZE 500 SRC 103 DST 1 D 0.026 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 10
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 107
+PATHLOSS ( 107) = 111.24
+power[107]= 83.661
+RR NRbs of 107 = 25
+user to schedule 109
+PATHLOSS ( 109) = 123.225
+power[109]= 138
+RR NRbs of 109 = 30
+user to schedule 110
+PATHLOSS ( 110) = 128.1
+power[110]= 138
+RR NRbs of 110 = 30
+RX CBR ID 9 B 9 SIZE 500 SRC 109 DST 1 D 0.027 0
+RX CBR ID 10 B 10 SIZE 500 SRC 110 DST 1 D 0.027 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 9
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 113
+PATHLOSS ( 113) = 128.099
+power[113]= 138
+RR NRbs of 113 = 30
+user to schedule 114
+PATHLOSS ( 114) = 126.631
+power[114]= 138
+RR NRbs of 114 = 30
+user to schedule 101
+PATHLOSS ( 101) = 128.097
+power[101]= 138
+RR NRbs of 101 = 30
+RX CBR ID 14 B 14 SIZE 500 SRC 114 DST 1 D 0.028 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 9
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 102
+PATHLOSS ( 102) = 126.995
+power[102]= 161
+RR NRbs of 102 = 35
+user to schedule 103
+PATHLOSS ( 103) = 121.849
+power[103]= 161
+RR NRbs of 103 = 35
+user to schedule 106
+PATHLOSS ( 106) = 127.575
+power[106]= 138
+RR NRbs of 106 = 30
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 8
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 110
+PATHLOSS ( 110) = 128.1
+power[110]= 161
+RR NRbs of 110 = 35
+user to schedule 111
+PATHLOSS ( 111) = 119.065
+power[111]= 107.153
+RR NRbs of 111 = 25
+user to schedule 113
+PATHLOSS ( 113) = 128.099
+power[113]= 161
+RR NRbs of 113 = 35
+RX CBR ID 11 B 11 SIZE 500 SRC 111 DST 1 D 0.03 0
+RX CBR ID 13 B 13 SIZE 500 SRC 113 DST 1 D 0.03 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 7
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 101
+PATHLOSS ( 101) = 128.096
+power[101]= 161
+RR NRbs of 101 = 35
+user to schedule 102
+PATHLOSS ( 102) = 126.995
+power[102]= 184
+RR NRbs of 102 = 40
+user to schedule 106
+PATHLOSS ( 106) = 127.575
+power[106]= 161
+RR NRbs of 106 = 35
+RX CBR ID 1 B 1 SIZE 500 SRC 101 DST 1 D 0.031 0
+RX CBR ID 2 B 2 SIZE 500 SRC 102 DST 1 D 0.031 0
+RX CBR ID 6 B 6 SIZE 500 SRC 106 DST 1 D 0.031 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 7
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 109
+PATHLOSS ( 109) = 123.224
+power[109]= 161
+RR NRbs of 109 = 35
+user to schedule 111
+PATHLOSS ( 111) = 119.065
+power[111]= 128.582
+RR NRbs of 111 = 30
+user to schedule 113
+PATHLOSS ( 113) = 128.098
+power[113]= 184
+RR NRbs of 113 = 40
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 4
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 5
+user to schedule 101
+PATHLOSS ( 101) = 128.096
+power[101]= 184
+RR NRbs of 101 = 40
+user to schedule 102
+PATHLOSS ( 102) = 126.995
+power[102]= 207
+RR NRbs of 102 = 45
+user to schedule 106
+PATHLOSS ( 106) = 127.575
+power[106]= 184
+RR NRbs of 106 = 40
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 1
+RBsAllocation (RR)
+ ---- RR UL RBs Allocation  PRB to assign 15, PRB for user 15
+user to schedule 114
+PATHLOSS ( 114) = 126.631
+power[114]= 161
+RR NRbs of 114 = 45
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+Start UPLINK packet scheduler for node 1
+UplinkPacketScheduler::SelectUsersToSchedule ()  users 30
+users to be schedule = 0
+ SIMULATOR_DEBUG: Stop ()
